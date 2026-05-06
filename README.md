@@ -9,6 +9,7 @@
 ![Angular](https://skillicons.dev/icons?i=angular)
 ![Unity](https://skillicons.dev/icons?i=unity)
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 
 ## GitHub Stats
 
