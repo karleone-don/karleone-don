@@ -1,21 +1,11 @@
-## 🛠 Tech Stack
+## Tech Stack
 
-**Languages:**
-- Python
-- TypeScript / JavaScript
-- C#
-- С++
-
-**ML / CV:**
-- PyTorch
-- OpenCV
-- NumPy
-
-**Frontend:**
-- Angular
-- React
-- HTML / CSS
-- PyQt
-
-**Game Dev:**
-- Unity
+![Python](https://skillicons.dev/icons?i=python)
+![C++](https://skillicons.dev/icons?i=cpp)
+![C#](https://skillicons.dev/icons?i=cs)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![React](https://skillicons.dev/icons?i=react)
+![Angular](https://skillicons.dev/icons?i=angular)
+![Unity](https://skillicons.dev/icons?i=unity)
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
