@@ -12,4 +12,4 @@
 
 ## GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karleone-don&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karleone-don&layout=compact&theme=radical&cache_seconds=1)
