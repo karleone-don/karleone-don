@@ -11,6 +11,9 @@
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40"/>
+<img src="https://cdn.simpleicons.org/numpy/013243" height="40"/>
+<img src="https://cdn.simpleicons.org/pandas/150458" height="40"/>
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40"/>
 
 ## GitHub Stats
 
