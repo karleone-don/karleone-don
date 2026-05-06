@@ -9,3 +9,7 @@
 ![Angular](https://skillicons.dev/icons?i=angular)
 ![Unity](https://skillicons.dev/icons?i=unity)
 ![PyTorch](https://skillicons.dev/icons?i=pytorch)
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
