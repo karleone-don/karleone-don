@@ -28,7 +28,3 @@
 ![Django](https://skillicons.dev/icons?i=django)
 ![Flask](https://skillicons.dev/icons?i=flask)
 
-
-## GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karleone-don&layout=compact&theme=radical&cache_seconds=1)
